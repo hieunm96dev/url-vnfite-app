@@ -17,7 +17,7 @@ function App() {
         APP_STORE_LINK;
     } else {
       window.location.href =
-        "https://vnfite.com.vn/";
+        "http://vnfite.com.vn/";
     }
   }, []);
 
