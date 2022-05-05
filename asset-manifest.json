@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/url-vnfite-app/static/css/main.675ed8d7.css",
-    "main.js": "/url-vnfite-app/static/js/main.419a9d1c.js",
+    "main.js": "/url-vnfite-app/static/js/main.6778e0e8.js",
     "static/js/787.3439f2a8.chunk.js": "/url-vnfite-app/static/js/787.3439f2a8.chunk.js",
     "static/media/Logo.jpg": "/url-vnfite-app/static/media/Logo.7c11746e8d5f1ba14593.jpg",
     "index.html": "/url-vnfite-app/index.html",
     "main.675ed8d7.css.map": "/url-vnfite-app/static/css/main.675ed8d7.css.map",
-    "main.419a9d1c.js.map": "/url-vnfite-app/static/js/main.419a9d1c.js.map",
+    "main.6778e0e8.js.map": "/url-vnfite-app/static/js/main.6778e0e8.js.map",
     "787.3439f2a8.chunk.js.map": "/url-vnfite-app/static/js/787.3439f2a8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.675ed8d7.css",
-    "static/js/main.419a9d1c.js"
+    "static/js/main.6778e0e8.js"
   ]
 }
